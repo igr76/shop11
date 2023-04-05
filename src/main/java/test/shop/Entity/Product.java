@@ -1,7 +1,6 @@
 package test.shop.Entity;
 
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.Table;
+import jakarta.persistence.*;
 import lombok.*;
 import org.springframework.data.annotation.Id;
 import java.util.ArrayList;
